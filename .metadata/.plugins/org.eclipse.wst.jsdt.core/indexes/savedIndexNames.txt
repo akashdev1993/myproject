@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\templatemo_508_power\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2827809671.index
+2519786571.index
+1057012368.index
+2790689741.index
+3421891993.index
